@@ -23,9 +23,22 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/soft-design-system-pro.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/core/popper.min.js",
+              "src/assets/js/core/bootstrap.min.js",
+              "src/assets/js/plugins/perfect-scrollbar.min.js",
+              "src/assets/js/plugins/typedjs.js",
+              "src/assets/js/plugins/countup.min.js",
+              "src/assets/js/plugins/parallax.min.js",
+              "src/assets/js/plugins/nouislider.min.js",
+              "src/assets/js/plugins/glidejs.min.js",
+              "src/assets/js/plugins/anime.min.js",
+              "src/assets/js/soft-design-system-pro.min.js",
+              "src/assets/js/app.js"
+            ]
           },
           "configurations": {
             "production": {
